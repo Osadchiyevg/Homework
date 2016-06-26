@@ -1,0 +1,28 @@
+body{
+  background: grey;
+}
+
+h1 {
+  text-align: center;
+}
+.cat{
+  text-align: center;
+}
+.cv {
+  background: white;
+  margin: 0 auto;
+  width: 800px;
+  height: 1000px;
+}
+p {
+  margin-left: 50px;
+  font-size: 20px
+}
+li {
+  margin-left: 50px;
+  font-size: 20px;
+}
+hr {
+margin-left: 35px;
+margin-right: 35px;
+}
